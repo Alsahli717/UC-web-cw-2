@@ -1,0 +1,20 @@
+h1{
+    font-size: 84px;
+    color: rgb(229, 86, 86);
+    text-align: center;
+}
+.use{
+    background-color: rgb(0, 183, 255);
+}
+body{
+    border-style: groove;
+}
+.card{
+    width: 500px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+#dish-name{
+    color: whitesmoke;
+}
