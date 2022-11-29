@@ -6,8 +6,8 @@ h1{
 .use{
     background-color: rgb(0, 183, 255);
 }
-body{
-    border-style: groove;
+.body{
+    border-style: block;
 }
 .card{
     width: 500px;
